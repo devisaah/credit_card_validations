@@ -306,7 +306,6 @@
   :rules:
   - :length:
     - 16
-    - 19
     :prefixes:
     - '6062'
     - '384'
